@@ -184,7 +184,7 @@ In contrast, the information related to Chennai pertains to Eaton Corporation, a
 
 
 ## OUTPUT
- ![alt text](1.png)
+![alt text](1.png)
 
 ![alt text](2.png)
 
