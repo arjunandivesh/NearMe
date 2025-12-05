@@ -184,17 +184,18 @@ In contrast, the information related to Chennai pertains to Eaton Corporation, a
 
 
 ## OUTPUT
-![alt text](1.png)
 
-![alt text](2.png)
+![alt text](mapproject/1.png)
 
-![alt text](3.png)
+![alt text](mapproject/2.png)
 
-![alt text](4.png)
+![alt text](mapproject/3.png)
 
-![alt text](5.png)
+![alt text](mapproject/4.png)
 
-![alt text](6.png)
+![alt text](mapproject/5.png)
+
+![alt text](mapproject/6.png)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
